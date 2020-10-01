@@ -1,0 +1,2 @@
+# StaticSite
+some static code
